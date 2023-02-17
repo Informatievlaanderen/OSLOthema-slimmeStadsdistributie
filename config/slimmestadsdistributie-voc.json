@@ -3,7 +3,7 @@
   "name": "OSLO-slimmestadsdistributie-voc",
   "type": "voc",
   "eap": "OSLO-slimmestadsdistributie.eap",
-  "diagram": "OSLO-MijnVocabularium",
+  "diagram": "OSLO-Slimmestadsdistributie",
   "template": "OSLO-slimmestadsdistributie-voc.j2",
   "title": "Slimme Stadsdistributie - Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",

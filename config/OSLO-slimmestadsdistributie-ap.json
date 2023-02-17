@@ -2,8 +2,8 @@
 {
   "name": "OSLO-slimmestadsdistributie-ap",
   "type": "ap",
-  "eap": "OSLO-slimmestadsdistributie-AP.eap",
-  "diagram": "OSLO-slimmestadsdistributie",
+  "eap": "OSLO-SlimmeStadsdistributie-AP.eap",
+  "diagram": "OSLO-SlimmeStadsdistributie",
   "template": "OSLO-slimmestadsdistributie-ap.j2",
   "title": "Slimme Stadsdistributie - Applicatieprofiel",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",

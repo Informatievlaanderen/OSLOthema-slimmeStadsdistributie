@@ -7,7 +7,16 @@
     "type_toepassing": "Aanbevolen (vrijwillig)",
     "categorie": "Vocabularium en applicatieprofielen",
     "beschrijving" : "ap-or-voc-slimmestadsdistributie.md",
-    "specificatiedocument": [],
+    "specificatiedocument": [
+      {
+        "naam": "Slimme Stadsdistributie - ApplicatieProfiel",
+        "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie"
+      },
+      {
+        "naam": "Slimme Stadsdistributie - Vocabularium",
+        "waarde": "https://test.data.vlaanderen.be/ns/slimme-stadsdistributie"
+      }
+    ],
     "documentatie": [],
     "charter": [
       {

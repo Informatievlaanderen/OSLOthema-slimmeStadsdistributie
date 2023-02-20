@@ -2,7 +2,7 @@
 {
   "name": "slimme-stadsdistributie",
   "type": "voc",
-  "eap": "OSLO-slimmestadsdistributie.eap",
+  "eap": "OSLO-SlimmeStadsdistributie-AP.eap",
   "diagram": "OSLO-Slimmestadsdistributie",
   "template": "OSLO-slimmestadsdistributie-voc.j2",
   "title": "Slimme Stadsdistributie - Vocabularium",

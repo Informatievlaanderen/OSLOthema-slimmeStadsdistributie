@@ -1,13 +1,13 @@
 [
 {
-  "name": "OSLO-slimmestadsdistributie-voc",
+  "name": "slimme-stadsdistributie",
   "type": "voc",
   "eap": "OSLO-slimmestadsdistributie.eap",
-  "diagram": "OSLO-MijnVocabularium",
+  "diagram": "OSLO-Slimmestadsdistributie",
   "template": "OSLO-slimmestadsdistributie-voc.j2",
   "title": "Slimme Stadsdistributie - Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-  "publication-date": "2020-01-31",
+  "publication-date": "2023-02-17",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",

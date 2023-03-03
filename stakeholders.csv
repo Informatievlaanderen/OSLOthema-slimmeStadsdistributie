@@ -1,46 +1,46 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
-Yaron ;Dassonneville;Digitaal Vlaanderen;yaron.dassonneville@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Lorenzo;Vylders;Digitaal Vlaanderen;lorenzo.vylders@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Pieter;Roeyen;Digitaal Vlaanderen;pieter.roeyen@pwc.com;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Joris;Beckers;Universiteit Antwerpen;;;C
-Kim;Bos;Stad Hasselt;;;C
-Axel;Bulambo;HAYS;;;C
-Eline;Camerlinck;Bpost;;;C
-Ken;Casier;Cegeka;;;C
-Catherine;Cassan;VUB;;;C
-Nico;Celen;De Lijn;;;C
-Bea;Cleeren;Stad Hasselt;;;C
-Fabian;de la Meilleure;VLOCA;;;C
-Isabelle;De Maegt;Febetra;;;C
-Berdien;De Roo;Geosparc;;;C
-Dana;Deliever;The New Drive;;;C
-Bart;Dumoulin;BBL;;;C
-Yannick;Fabbro;Stad Hasselt;;;C
-Evert;Gellynck;Be-Mobile;;;C
-Alain;Glickman;VLOCA;;;C
-Filip;Goossens;On Time Logistics;;;C
-Tim;Guily;Stad Leuven;;;C
-Marij;Lambert;Stad Leuven;;;C
-Jacob;Laureyns;Mobius;;;C
-Roos;Lowette;Stad Mechelen;;;C
-Johan;Peeters;Fishermen;;;C
-Philippe;Reyners;Vlaams Netwerk van Ondernemingen;;;C
-Claire;Schelfhout;VUB;;;C
-Daniel;Sevenhans;Stad Antwerpen;;;C
-Jan;Severijns;Scoptis;;;C
-Veronique;Smeets;Vlaamse Milieumaatschappij;;;C
-Mary-Ann;Smits;Stad Hasselt;;;C
-Renaat;Sohl;E-llis;;;C
-Pieter;Stevens;Cranium;;;C
-Domien;Stubbe;VIL;;;C
-Laura;Tavernier;REBEL Group;;;C
-Dries;Van Bever;IMEC;;;C
-Klaas;Van Cauwenberg;Departement Mobiliteit en Openbare Werken;;;C
-Loesje;Van Damme;Stad Gent;;;C
-Guido;Van de Velde;FrontForce;;;C
-Koen;Vandevelde;Ninatrans;;;C
-Carlo;Vanholst;Politie Hasselt;;;C
-Gerrit;Verlinden;Stad Hasselt;;;C
-Vicky;Verscheijden;Stad Tongeren;;;C
-Tim;Vervoort;Stad Antwerpen;;;C
-Lei;Vierendeels;GLS Belgium;;;C
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
+Yaron ;Dassonneville;Digitaal Vlaanderen;yaron.dassonneville@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Lorenzo;Vylders;Digitaal Vlaanderen;lorenzo.vylders@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Pieter;Roeyen;Digitaal Vlaanderen;pieter.roeyen@pwc.com;https://www.vlaanderen.be/digitaal-vlaanderen;E;
+Joris;Beckers;Universiteit Antwerpen;;;C;
+Kim;Bos;Stad Hasselt;;;C;
+Axel;Bulambo;HAYS;;;C;
+Eline;Camerlinck;Bpost;;;C;
+Ken;Casier;Cegeka;;;C;
+Catherine;Cassan;VUB;;;C;
+Nico;Celen;De Lijn;;;C;
+Bea;Cleeren;Stad Hasselt;;;C;
+Fabian;de la Meilleure;VLOCA;;;C;
+Isabelle;De Maegt;Febetra;;;C;
+Berdien;De Roo;Geosparc;;;C;
+Dana;Deliever;The New Drive;;;C;
+Bart;Dumoulin;BBL;;;C;
+Yannick;Fabbro;Stad Hasselt;;;C;
+Evert;Gellynck;Be-Mobile;;;C;
+Alain;Glickman;VLOCA;;;C;
+Filip;Goossens;On Time Logistics;;;C;
+Tim;Guily;Stad Leuven;;;C;
+Marij;Lambert;Stad Leuven;;;C;
+Jacob;Laureyns;Mobius;;;C;
+Roos;Lowette;Stad Mechelen;;;C;
+Johan;Peeters;Fishermen;;;C;
+Philippe;Reyners;Vlaams Netwerk van Ondernemingen;;;C;
+Claire;Schelfhout;VUB;;;C;
+Daniel;Sevenhans;Stad Antwerpen;;;C;
+Jan;Severijns;Scoptis;;;C;
+Veronique;Smeets;Vlaamse Milieumaatschappij;;;C;
+Mary-Ann;Smits;Stad Hasselt;;;C;
+Renaat;Sohl;E-llis;;;C;
+Pieter;Stevens;Cranium;;;C;
+Domien;Stubbe;VIL;;;C;
+Laura;Tavernier;REBEL Group;;;C;
+Dries;Van Bever;IMEC;;;C;
+Klaas;Van Cauwenberg;Departement Mobiliteit en Openbare Werken;;;C;
+Loesje;Van Damme;Stad Gent;;;C;
+Guido;Van de Velde;FrontForce;;;C;
+Koen;Vandevelde;Ninatrans;;;C;
+Carlo;Vanholst;Politie Hasselt;;;C;
+Gerrit;Verlinden;Stad Hasselt;;;C;
+Vicky;Verscheijden;Stad Tongeren;;;C;
+Tim;Vervoort;Stad Antwerpen;;;C;
+Lei;Vierendeels;GLS Belgium;;;C;
